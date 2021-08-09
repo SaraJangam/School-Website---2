@@ -1,0 +1,37 @@
+.my_nav_bar{
+    position: sticky;
+    top:0;
+    z-index: 99999;
+}
+#marqueeStyle{
+    margin-top: -20px;
+    background-color: cornflowerblue;
+    font-size: 18px;
+}
+html{
+    scroll-behavior: smooth;
+}
+.page-header{
+    text-align: center;
+    font-size: 20px;
+}
+.cam-img{
+    margin-left: -50px;
+}
+.kbd-campus-detailer{
+    text-align: center;
+    font-size: 25px;
+}
+.writings{
+    margin-left: -50px;
+}
+#school-video{
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+.acheivements{
+ border-radius: 8px;
+ height: 30px;
+    margin-bottom: 8px;
+}
